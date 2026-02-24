@@ -5,7 +5,7 @@ const projects = [
   {
     id: 1,
     number: '01',
-    title: 'Exotic Marketplpace',
+    title: 'Harare community',
     description:
       'Harare Community Board is a local events platform for Harare, Zimbabwe. It connects residents with community events, workshops, markets, and initiatives happening across the city.',
     tags: ['React', 'CSS/SASS', 'Node.js'],
@@ -15,7 +15,7 @@ const projects = [
   {
     id: 2,
     number: '02',
-    title: 'Project Title Two',
+    title: 'ATL stationery',
     description:
       'ATL Kays is your one-stop online destination for premium stationery and office essentials, bringing everything you need to build a productive workspace right to your door.',
     tags: ['JavaScript', 'HTML', 'CSS'],
