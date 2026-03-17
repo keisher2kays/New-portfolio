@@ -107,7 +107,7 @@ const About = () => {
             </div>
           </div>
 
-          <a href="/keisher cv updated (1).pdf" className="about-cta fade-up" download>
+          <a href="/Keisher katerere web cv.pdf" className="about-cta fade-up" download>
             Download Resume
             <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
               <path d="M5 12h14M12 5l7 7-7 7" />
