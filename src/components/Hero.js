@@ -29,7 +29,7 @@ const Hero = () => {
         <div className="name-wrapper">
           <h2 className="first-name">KEISHER</h2>
           <h1 className="last-name">KATERERE</h1>
-          <p className="subtitle">Frontend Developer</p>
+          <p className="subtitle">  Web Developer</p>
 
           <div className="btn-group">
             {/* View Work scrolls to portfolio */}
