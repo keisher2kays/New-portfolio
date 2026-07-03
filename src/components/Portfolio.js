@@ -30,7 +30,7 @@ const projects = [
     description:
       'ATL Kays is your one-stop online destination for premium stationery and office essentials, bringing everything you need to build a productive workspace right to your door.',
     tags: ['JavaScript', 'HTML', 'CSS ' , 'REACT'],
-    link: 'https://anan-consultance-2d48-git-main-keishers-projects.vercel.app/',
+    link: 'https://anan-consultance-2d48.vercel.app/',
     image: anan, 
   },
 ];
