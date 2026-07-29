@@ -50,7 +50,7 @@ const Footer = () => {
         {/* Left: name + tagline */}
         <div className="footer-brand">
           <span className="footer-name">Keisher Katerere</span>
-          <span className="footer-tagline">Frontend Developer · UI/UX</span>
+          <span className="footer-tagline">WEB DEVELOPER · UI/UX · DIGITAL MARKETER </span>
         </div>
 
         {/* Center: nav links */}

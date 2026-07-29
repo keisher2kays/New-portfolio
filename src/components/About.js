@@ -75,10 +75,10 @@ const About = () => {
           </h2>
 
           <p className="bio-body fade-up">
-            I'm a frontend developer with a keen eye for design and a commitment to delivering
-            exceptional user experiences. Graduate of Uncommon's Frontend Developer &amp; Software
+            I'm a Web developer with a keen eye for design and a commitment to delivering
+            exceptional user experiences. Graduate of Uncommon's Web Developer &amp; Software
             Engineering program, I specialise in building responsive, user-centric applications
-            using modern web technologies. Currently serving as UI/UX Developer at COBA Community
+            using modern web technologies. Served as UI/UX Developer at COBA Community
             Business Association — creating digital interfaces and brand materials that connect
             people with purpose.
           </p>

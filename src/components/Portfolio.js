@@ -2,18 +2,19 @@ import React, { useEffect, useRef } from 'react';
 import comm from '../assets/comm.png'
 import ATL from '../assets/ATL.png'
 import anan from '../assets/anan.png'
+import lumivera from '../assets/lumivera.png'
 const projects = [
   {
-    id: 1,
-    number: '01',
-    title: 'Harare community',
-    description:
-      'Harare Community Board is a local events platform for Harare, Zimbabwe. It connects residents with community events, workshops, markets, and initiatives happening across the city.',
-    tags: ['React', 'CSS/SASS', 'Node.js'],
-    link: 'https://harare-comm.vercel.app/',
-    image: comm , 
-  },
-  {
+  id: 1, // Update the ID based on your array order
+  number: '01', // Update sequence number as needed
+  title: 'Lumivera Green Energy',
+  description:
+    'Lumivera is an official corporate web platform highlighting solar energy systems, water borehole drilling operations, and sustainable equipment services across Zimbabwe.',
+  tags: ['React', 'CSS', 'Node.js', 'MongoDB'],
+  link: 'https://lumiveragreenenergy.org/', // Replace with your exact project link or live URL
+  image: lumivera, // Ensure 'lumivera' is imported at the top of your file
+},
+ {
     id: 2,
     number: '02',
     title: 'ATL stationery',
@@ -26,6 +27,17 @@ const projects = [
   {
     id: 3,
     number: '03',
+    title: 'Harare community',
+    description:
+      'Harare Community Board is a local events platform for Harare, Zimbabwe. It connects residents with community events, workshops, markets, and initiatives happening across the city.',
+    tags: ['React', 'CSS/SASS', 'Node.js'],
+    link: 'https://harare-comm.vercel.app/',
+    image: comm , 
+  },
+ 
+  {
+    id: 4,
+    number: '04',
     title: 'Anan Consultance',
     description:
       'ATL Kays is your one-stop online destination for premium stationery and office essentials, bringing everything you need to build a productive workspace right to your door.',
