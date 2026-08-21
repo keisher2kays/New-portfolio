@@ -3,6 +3,8 @@ import comm from '../assets/comm.png'
 import ATL from '../assets/ATL.png'
 import anan from '../assets/anan.png'
 import lumivera from '../assets/lumivera.png'
+import black from '../assets/black.png'
+
 const projects = [
   {
   id: 1, // Update the ID based on your array order
@@ -14,9 +16,21 @@ const projects = [
   link: 'https://lumiveragreenenergy.org/', // Replace with your exact project link or live URL
   image: lumivera, // Ensure 'lumivera' is imported at the top of your file
 },
- {
+
+  {
     id: 2,
     number: '02',
+    title: 'Black Grind',
+    description:
+      'The Black Grind is a digital marketing agency website built for a Harare-based team offering SEO, content, social media, branding, and web development services. Features animated service sections, a dynamic team showcase, and a bold ink/cyan/gold visual identity.',
+    tags: ['React', 'CSS/SASS', 'Node.js'],
+    link: 'https://black-grind.vercel.app/',
+    image: black , 
+  },
+
+   {
+    id: 3,
+    number: '03',
     title: 'ATL stationery',
     description:
       'ATL Kays is your one-stop online destination for premium stationery and office essentials, bringing everything you need to build a productive workspace right to your door.',
@@ -24,10 +38,11 @@ const projects = [
     link: 'https://atl-kays.vercel.app/',
     image: ATL, 
   },
-  {
-    id: 3,
-    number: '03',
-    title: 'Harare community',
+
+   {
+    id: 4,
+    number: '04',
+    title: 'Harare Community',
     description:
       'Harare Community Board is a local events platform for Harare, Zimbabwe. It connects residents with community events, workshops, markets, and initiatives happening across the city.',
     tags: ['React', 'CSS/SASS', 'Node.js'],
@@ -36,8 +51,8 @@ const projects = [
   },
  
   {
-    id: 4,
-    number: '04',
+    id: 5,
+    number: '05',
     title: 'Anan Consultance',
     description:
       'ATL Kays is your one-stop online destination for premium stationery and office essentials, bringing everything you need to build a productive workspace right to your door.',
